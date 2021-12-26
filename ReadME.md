@@ -17,7 +17,7 @@ All the rows that have at least one null value are removed  <br>
 All the rows that do not have coins being mined are removed <br>
 ![Figure 4](https://github.com/davidhyongae2/Crypto_currancy/blob/main/Figure4.png) <br>
 The CoinName column is dropped  <br> 
-![Figure 5](https://github.com/davidhyongae2/Crypto_currancy/blob/main/Figure5.png) <br>
+![Figure 5](https://github.com/davidhyongae2/Crypto_currancy/blob/main/Figure5a.png) <br>
 
 A new DataFrame is created that stores all cryptocurrency names from the CoinName column and retains the index from the crypto_df DataFrame  <br> 
 ![Figure 6](https://github.com/davidhyongae2/Crypto_currancy/blob/main/Figure6.png) <br>
