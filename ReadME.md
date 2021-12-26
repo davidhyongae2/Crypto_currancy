@@ -70,4 +70,4 @@ A DataFrame is created that contains the clustered_df DataFrame index, the scale
 ![Figure 17](https://github.com/davidhyongae2/Crypto_currancy/blob/main/Figure17.png) <br>
 
 A hvplot scatter plot is created where the X-axis is "TotalCoinsMined", the Y-axis is "TotalCoinSupply", the data is ordered by "Class", and it shows the CoinName when you hover over the data point  <br> 
-![Figure 18](https://github.com/davidhyongae2/Crypto_currancy/blob/main/Figure18.png) <br>
+![Figure 18](https://github.com/davidhyongae2/Crypto_currancy/blob/main/Figure18a.png) <br>
