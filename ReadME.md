@@ -32,7 +32,7 @@ The features from the X DataFrame have been standardized using the StandardScale
 ##### Deliverable 2 Requirements
 
 The PCA algorithm reduces the dimensions of the X DataFrame down to three principal components  <br> 
-![Figure 9](https://github.com/davidhyongae2/Crypto_currancy/blob/main/Figure9.png) <br>
+![Figure 9](https://github.com/davidhyongae2/Crypto_currancy/blob/main/Figure9b.png) <br>
 
 
 The pcs_df DataFrame is created and has the following three columns, PC 1, PC 2, and PC 3, and has the index from the crypto_df DataFrame  <br> 
