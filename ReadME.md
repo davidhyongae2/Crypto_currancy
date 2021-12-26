@@ -30,7 +30,7 @@ The features from the X DataFrame have been standardized using the StandardScale
 
 
 ##### Deliverable 2 Requirements
-##### You will earn a perfect score for Deliverable 2 by completing all requirements below:
+
 
 
 The PCA algorithm reduces the dimensions of the X DataFrame down to three principal components  <br> 
@@ -41,7 +41,7 @@ The pcs_df DataFrame is created and has the following three columns, PC 1, PC 2,
 ![Figure 10](https://github.com/davidhyongae2/Crypto_currancy/blob/main/Figure10.png) <br>
 
 ##### Deliverable 3 Requirements
-##### You will earn a perfect score for Deliverable 3 by completing all requirements below:
+
 
 The K-means algorithm is used to cluster the cryptocurrencies using the PCA data, where the following steps have been completed:
 An elbow curve is created using hvPlot to find the best value for K <br>
