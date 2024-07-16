@@ -1,5 +1,5 @@
 ## Overview of the analysis
-- Usage of pandas to create a dataframe of values to the perform Principle Component Analysis of the dataset. 
+- Usage of pandas to create a data frame of values to perform Principle Component Analysis of the dataset. 
 
 ## Resources
 - Program language: crytocurrancy datafile,Python3, pandas, Jupyter notebook  <br> 
